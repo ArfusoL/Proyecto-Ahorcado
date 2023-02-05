@@ -1,0 +1,1 @@
+const words = ["Carne", "Martillo", "Lavadora", "Sucio", "Cangrejo", "Cesto", "Sol", "Beber", "Botella", "Vaso", "Hamburguesa", "Invierno", "Primavera", "Contrario", "Futbol", "Diccionario"]
